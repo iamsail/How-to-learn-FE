@@ -1,11 +1,10 @@
 # How-to-learn-FE
-如何学习前端
 
-本repo是如何学习前端的一些建议。给前端从业者或者爱好者做一些参考。
+本仓库致力于给前端从业者或者爱好者提供的一些学习参考。
 
 **********************
+# 目录
 
-有以下几大部分
 - [基础](#基础)
     - [HTML](#HTML)
     - [CSS](#CSS)
@@ -15,12 +14,11 @@
     - [React](#React)
     - [Vue](#Vue)
 - [工具](#工具)
-    - [编辑器](#编辑器)
     - [Git](#Git)
     - [Chrome](#Chrome)
 - [进阶](#进阶)
     - [计算机网络](#计算机网络)
-    - [Shell](#Shell)
+    - [Linux](#Linux)
     - [正则表达式](#正则表达式)
 - [算法](#算法)
     - [刷题](#刷题)
@@ -33,8 +31,6 @@
 **********************
 
 # <a id="基础">基础</a>
-虽然前端的发展十分迅猛，框架、库层出不穷，但是万变不离其中。又或者说是万丈高楼从地起。最基础的还是HTML,CSS,JavaScript。
-
 ## <a id="HTML">HTML</a>
 - [菜鸟教程-HTML](https://www.runoob.com/html/html-tutorial.html)
 - [MDN-HTML（超文本标记语言）](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
@@ -61,7 +57,7 @@
 | 你不知道的JavaScript下卷 | 链接:https://pan.baidu.com/s/17SILMglrTbQtqwGeSMsQdw  密码:2d4e |
 
 
-## TypeScript
+## <a id="TypeScript">TypeScript</a>
 - [中文文档](https://www.tslang.cn/docs/home.html)
 - [microsoft/TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter#typescript-react-starter)
 
@@ -69,34 +65,40 @@
 
 # <a id="框架">框架</a>
 ## <a id="React">React</a>
+- [react文档](https://reactjs.bootcss.com/)
+- [mobx](https://cn.mobx.js.org/)
+
 ## <a id="Vue">Vue</a>
+- [vue文档](https://cn.vuejs.org/index.html)
 
 **********************
 
 # <a id="工具">工具</a>
-## 编辑器
-VSCode
-
-## Git
+## <a id="Git">Git</a>
 - [git-scm(看这个就够了)](https://git-scm.com/book/zh/v2)
 
-## Chrome
+## <a id="Chrome">Chrome</a>
 - [Chrome 开发者工具](https://developers.google.com/web/tools/chrome-devtools/)
 
 **********************
 
 # <a id="进阶">进阶</a>
-## 计算机网络
+## <a id="计算机网络">计算机网络</a>
 
 | 书名 |网盘链接 |
 | --- | --- |
 | HTTP权威指南 | 链接:https://pan.baidu.com/s/1SZralJnEF37LVcBVRsduhQ  密码:dw53|
 | 图解HTTP | 链接:https://pan.baidu.com/s/1AGAlr8MTcp3fAblXgEM-rA  密码:h1u7 |
 
-## Shell
+## <a id="Linux">Linux</a>
 - [linux命令行大全](https://man.linuxde.net/)
 
-## 正则表达式
+| 书名 |网盘链接 |
+| --- | --- |
+| 鸟哥的Linux私房菜__基础篇 | 链接:https://pan.baidu.com/s/1kptL4pC0DJ1EweUPgauacg  密码:708j |
+
+
+## <a id="正则表达式">正则表达式</a>
 - [正则表达式30分钟入门教程](https://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html)
 - [正则表达式-图形化工具](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24)
 - [正则校验工具-regex101](https://regex101.com/)
@@ -104,8 +106,7 @@ VSCode
 **********************
 
 # <a id="算法">算法</a>
-
-## <a id="算法">刷题</a>
+## <a id="刷题">刷题</a>
 - [leetcode-cn](https://leetcode-cn.com/problemset/all/)
 - [leetcode.js](https://github.com/iamsail/leetcode.js)
 
@@ -117,7 +118,6 @@ VSCode
 **********************
 
 # <a id="资源">资源</a>
-
 ## <a id="博客">博客</a>
 - [美团技术团队](https://tech.meituan.com/)
 - [奇舞周刊](https://weekly.75team.com/)
@@ -127,13 +127,14 @@ VSCode
 - [京东凹凸实验室](https://aotu.io/index.html)
 - [alloyteam](http://www.alloyteam.com/)
 
-## 慕课
-
+## <a id="慕课">慕课</a>
 - [慕课网](https://www.imooc.com/)
 - [实验楼](https://www.shiyanlou.com/)
 
-## 社区
+## <a id="社区">社区</a>
 - [掘金](https://juejin.im/timeline)
+- [react-china](http://react-china.org/)
+- [v2ex](https://www.v2ex.com/)
 
-## 面试资源
+## <a id="面试资源">面试资源</a>
 - [airuikun/Weekly-FE-Interview](https://github.com/airuikun/Weekly-FE-Interview)
