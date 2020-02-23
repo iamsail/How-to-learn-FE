@@ -40,7 +40,12 @@
 - [MDN-HTML（超文本标记语言）](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 
 ## <a id="CSS">CSS</a>
-[菜鸟教程-CSS](https://www.runoob.com/css/css-tutorial.html)
+- [菜鸟教程-CSS](https://www.runoob.com/css/css-tutorial.html)
+
+| 书名 |网盘链接 |
+| --- | --- |
+| CSS揭秘 | 链接:https://pan.baidu.com/s/1LWEVIfEri0K8My4wZQ3Fvw  密码:rwyg |
+| CSS禅意花园 | 链接:https://pan.baidu.com/s/1D_7OGCA06VUJZlfvel1yjQ  密码:3ts8 |
 
 ## <a id="JavaScript">JavaScript</a>
 - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
@@ -51,9 +56,9 @@
 | --- | --- |
 | JavaScript高级程序设计 | 链接:https://pan.baidu.com/s/1yBR_Qwe9tALoC3DlVo8l7g  密码:ap5d|
 | JavaScript语言精粹 | 链接:https://pan.baidu.com/s/1T8zg4O1xVQdoFt4p6tiHtw  密码:slf0|
-|  | |
-|  | |
-
+| 你不知道的JavaScript上卷 | 链接:https://pan.baidu.com/s/1UVxYOtZUQawPPrWj-ktQcg  密码:70xi|
+| 你不知道的JavaScript中卷 | 链接:https://pan.baidu.com/s/1_WsP_ePak21nBJOhaaTEUw  密码:sv3s |
+| 你不知道的JavaScript下卷 | 链接:https://pan.baidu.com/s/17SILMglrTbQtqwGeSMsQdw  密码:2d4e |
 
 
 ## TypeScript
@@ -65,6 +70,7 @@
 # <a id="框架">框架</a>
 ## <a id="React">React</a>
 ## <a id="Vue">Vue</a>
+
 **********************
 
 # <a id="工具">工具</a>
@@ -85,9 +91,10 @@ VSCode
 | 书名 |网盘链接 |
 | --- | --- |
 | HTTP权威指南 | 链接:https://pan.baidu.com/s/1SZralJnEF37LVcBVRsduhQ  密码:dw53|
+| 图解HTTP | 链接:https://pan.baidu.com/s/1AGAlr8MTcp3fAblXgEM-rA  密码:h1u7 |
 
 ## Shell
-[linux命令行大全](https://man.linuxde.net/)
+- [linux命令行大全](https://man.linuxde.net/)
 
 ## 正则表达式
 - [正则表达式30分钟入门教程](https://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html)
@@ -100,12 +107,12 @@ VSCode
 
 ## <a id="算法">刷题</a>
 - [leetcode-cn](https://leetcode-cn.com/problemset/all/)
+- [leetcode.js](https://github.com/iamsail/leetcode.js)
 
 | 书名 |网盘链接 |
 | --- | --- |
 | 编程珠玑 | 链接:https://pan.baidu.com/s/17MFSZBMUYaFg9OD5XsfTUg  密码:0jz8 |
-|  | |
-|  | |
+| 剑指offer | 链接:https://pan.baidu.com/s/1RaOn0D4mso76fjNrROgyog  密码:hmuf |
 
 **********************
 
@@ -129,4 +136,4 @@ VSCode
 - [掘金](https://juejin.im/timeline)
 
 ## 面试资源
-[airuikun/Weekly-FE-Interview](https://github.com/airuikun/Weekly-FE-Interview)
+- [airuikun/Weekly-FE-Interview](https://github.com/airuikun/Weekly-FE-Interview)
