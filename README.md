@@ -36,21 +36,29 @@
 虽然前端的发展十分迅猛，框架、库层出不穷，但是万变不离其中。又或者说是万丈高楼从地起。最基础的还是HTML,CSS,JavaScript。
 
 ## <a id="HTML">HTML</a>
-[菜鸟教程-HTML](https://www.runoob.com/html/html-tutorial.html)
-[MDN-HTML（超文本标记语言）](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
+- [菜鸟教程-HTML](https://www.runoob.com/html/html-tutorial.html)
+- [MDN-HTML（超文本标记语言）](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 
 ## <a id="CSS">CSS</a>
 [菜鸟教程-CSS](https://www.runoob.com/css/css-tutorial.html)
 
 ## <a id="JavaScript">JavaScript</a>
-[JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
-[ES6 入门教程](http://es6.ruanyifeng.com/)
+- [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
+- [ES6 入门教程](http://es6.ruanyifeng.com/)
 
 ### <a id="JavaScript书籍">书籍</a>
+| 书名 |网盘链接 |
+| --- | --- |
+| JavaScript高级程序设计 | 链接:https://pan.baidu.com/s/1yBR_Qwe9tALoC3DlVo8l7g  密码:ap5d|
+| JavaScript语言精粹 | 链接:https://pan.baidu.com/s/1T8zg4O1xVQdoFt4p6tiHtw  密码:slf0|
+|  | |
+|  | |
+
+
 
 ## TypeScript
-[中文文档](https://www.tslang.cn/docs/home.html)
-[microsoft/TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter#typescript-react-starter)
+- [中文文档](https://www.tslang.cn/docs/home.html)
+- [microsoft/TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter#typescript-react-starter)
 
 **********************
 
@@ -64,15 +72,19 @@
 VSCode
 
 ## Git
-[git-scm(看这个就够了)](https://git-scm.com/book/zh/v2)
+- [git-scm(看这个就够了)](https://git-scm.com/book/zh/v2)
 
 ## Chrome
-[Chrome 开发者工具](https://developers.google.com/web/tools/chrome-devtools/)
+- [Chrome 开发者工具](https://developers.google.com/web/tools/chrome-devtools/)
 
 **********************
 
 # <a id="进阶">进阶</a>
 ## 计算机网络
+
+| 书名 |网盘链接 |
+| --- | --- |
+| HTTP权威指南 | 链接:https://pan.baidu.com/s/1SZralJnEF37LVcBVRsduhQ  密码:dw53|
 
 ## Shell
 [linux命令行大全](https://man.linuxde.net/)
@@ -89,6 +101,11 @@ VSCode
 ## <a id="算法">刷题</a>
 - [leetcode-cn](https://leetcode-cn.com/problemset/all/)
 
+| 书名 |网盘链接 |
+| --- | --- |
+| 编程珠玑 | 链接:https://pan.baidu.com/s/17MFSZBMUYaFg9OD5XsfTUg  密码:0jz8 |
+|  | |
+|  | |
 
 **********************
 
@@ -110,7 +127,6 @@ VSCode
 
 ## 社区
 - [掘金](https://juejin.im/timeline)
-
 
 ## 面试资源
 [airuikun/Weekly-FE-Interview](https://github.com/airuikun/Weekly-FE-Interview)
